@@ -15,7 +15,7 @@ public class Userview {
     
     public static void home(String email){ 
         System.out.println("---------------------------------------\n             HomePage\n---------------------------------------");
-        System.out.println("Press 1 to show all files             |");
+        System.out.println("Press 1 to show all hidden files      |");
         System.out.println("Press 2 to hide file                  |");
         System.out.println("Press 3 to unhide file                |");
         System.out.println("Press 4 to logout                     |");
